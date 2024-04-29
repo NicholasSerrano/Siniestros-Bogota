@@ -1,7 +1,5 @@
 ﻿pandas 
-numpy 
 seaborn 
-matplotlib.pyplot 
 streamlit 
 requests
 IPython.display 
