@@ -2,5 +2,5 @@
 seaborn 
 streamlit 
 requests
-IPython.display 
-PIL 
+nunmpy
+
